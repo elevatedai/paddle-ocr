@@ -1,0 +1,9 @@
+fastapi
+paddlepaddle==3.0.0b1
+paddleocr
+pillow
+numpy
+aiohttp
+pydantic
+setuptools
+wheel
