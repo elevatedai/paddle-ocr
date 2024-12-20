@@ -2,6 +2,7 @@ fastapi
 paddlepaddle==3.0.0b1
 paddleocr
 pillow
+uvicorn
 numpy
 aiohttp
 pydantic
